@@ -1,4 +1,4 @@
 # Ich-mag-Surfen
 Eine kleine Surfanleitung
 
-als erstes eine Zielland aussuchen
+als erstes ein geiles Zielland aussuchen
